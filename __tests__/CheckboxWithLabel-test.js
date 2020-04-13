@@ -17,4 +17,3 @@ it("CheckboxWithLabel changes the text after click", () => {
 
   expect(queryByLabelText(/on/i)).toBeTruthy();
 });
-
